@@ -38,3 +38,11 @@ nav a{
 nav a:hover{
   color: orange;
 }
+.signup, .signin {
+  display: flex;
+  border: 0.3rem solid rgb(66, 64, 64);
+  background-color: rgb(66, 64, 64);
+  color: #fff;
+  margin-bottom: 1rem;
+  padding: 1rem 1rem 1rem 0;
+}
